@@ -1,0 +1,15 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #e9ecef;
+}
+
+.btn {
+    min-width: 130px;
+}
