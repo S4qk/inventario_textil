@@ -42,3 +42,6 @@ Aplicación web simple para gestionar rollos de tela, registrar ventas y visuali
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/S4qk/inventario_textil.git
+
+#Nota Adicional
+El historial para git lo olvide y solo hice dos specs
